@@ -71,7 +71,8 @@ export default function Home() {
           padding="8"
         >
           <Text fontSize="md" marginBottom="2">
-            Made with 🔥 by the University of Kansas Blockchain Institute
+          Made with &nbsp;🔥&nbsp; by the University of Kansas Blockchain Institute
+
           </Text>
           <Link href={tutorialUrl} isExternal>
             <Button colorScheme="blue" variant="outline" size="sm">
